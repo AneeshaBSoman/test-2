@@ -11,3 +11,6 @@ print(d-a)
 
 e=30
 print(e-a)
+
+f=34
+print(f-a)
